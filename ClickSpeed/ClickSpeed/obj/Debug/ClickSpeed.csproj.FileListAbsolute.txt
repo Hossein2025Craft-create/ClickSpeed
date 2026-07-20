@@ -1,0 +1,10 @@
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\bin\Debug\ClickSpeed.exe.config
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\bin\Debug\ClickSpeed.exe
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\bin\Debug\ClickSpeed.pdb
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\obj\Debug\ClickSpeed.csproj.AssemblyReference.cache
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\obj\Debug\ClickSpeed.Form1.resources
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\obj\Debug\ClickSpeed.Properties.Resources.resources
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\obj\Debug\ClickSpeed.csproj.GenerateResource.cache
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\obj\Debug\ClickSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\obj\Debug\ClickSpeed.exe
+C:\Users\Hossein Hajiarab\source\repos\ClickSpeed\ClickSpeed\obj\Debug\ClickSpeed.pdb
